@@ -77,8 +77,5 @@ python run_pipeline.py     # ~30 seconds first time (downloads data)
 pytest -v                  # runs the tests
 ```
 
-## Next steps
 
-- Power BI dashboard on the `outputs/` tables
-- Poisson GLM for claim frequency (rating relativities by factor)
-- Add the severity dataset (`freMTPL2sev`) to estimate pure premium
+
